@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1437010575 source:d:\poweroff\main.c
+	<stdio.h>
+	<stdlib.h>
+
